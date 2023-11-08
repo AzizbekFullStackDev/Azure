@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\Hotel\\2cb5658e09894f23a78300d7742d9a41.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Hotel\\2cb5658e09894f23a78300d7742d9a41.jpg"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\Hotel\\aaf87a6366ec448e90f1433049945841.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Hotel\\aaf87a6366ec448e90f1433049945841.jpg"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\Room\\4226d4c613ba47938a9071b7510d04bc.pdf",
+      "PackagePath": "staticwebassets\\Assets\\Room\\4226d4c613ba47938a9071b7510d04bc.pdf"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\Room\\cf3b9282fa654c2d9aab1a3e06c7aa41.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Room\\cf3b9282fa654c2d9aab1a3e06c7aa41.jpg"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\Room\\e037e12a526945fa885d15c83e69a57c.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Room\\e037e12a526945fa885d15c83e69a57c.jpg"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\User\\09d4d74ad3c1471fb277c47314e26b23.jpg",
+      "PackagePath": "staticwebassets\\Assets\\User\\09d4d74ad3c1471fb277c47314e26b23.jpg"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\User\\32db53807e9c4934bdda7fffe1ce0a1a.jpg",
+      "PackagePath": "staticwebassets\\Assets\\User\\32db53807e9c4934bdda7fffe1ce0a1a.jpg"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\User\\35c97c09c80341788c69b7536001d82d.jpg",
+      "PackagePath": "staticwebassets\\Assets\\User\\35c97c09c80341788c69b7536001d82d.jpg"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\User\\6d7775c9cc874b4792e23f401d25705b.jpg",
+      "PackagePath": "staticwebassets\\Assets\\User\\6d7775c9cc874b4792e23f401d25705b.jpg"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\User\\a5ee4be335e644f6af60966ee98a2db9.jpg",
+      "PackagePath": "staticwebassets\\Assets\\User\\a5ee4be335e644f6af60966ee98a2db9.jpg"
+    },
+    {
+      "Id": "D:\\ExamProjects\\Azure\\src\\Azure.Api\\wwwroot\\Assets\\User\\e5d61934474144a18d60989189924c6e.jpg",
+      "PackagePath": "staticwebassets\\Assets\\User\\e5d61934474144a18d60989189924c6e.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Azure.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Azure.Api.props",
+      "PackagePath": "build\\Azure.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Azure.Api.props",
+      "PackagePath": "buildMultiTargeting\\Azure.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Azure.Api.props",
+      "PackagePath": "buildTransitive\\Azure.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

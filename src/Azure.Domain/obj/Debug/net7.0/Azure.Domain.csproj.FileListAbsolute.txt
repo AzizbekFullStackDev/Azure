@@ -1,0 +1,12 @@
+D:\ExamProjects\Azure\src\Azure.Domain\bin\Debug\net7.0\Azure.Domain.deps.json
+D:\ExamProjects\Azure\src\Azure.Domain\bin\Debug\net7.0\Azure.Domain.dll
+D:\ExamProjects\Azure\src\Azure.Domain\bin\Debug\net7.0\Azure.Domain.pdb
+D:\ExamProjects\Azure\src\Azure.Domain\obj\Debug\net7.0\Azure.Domain.csproj.AssemblyReference.cache
+D:\ExamProjects\Azure\src\Azure.Domain\obj\Debug\net7.0\Azure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamProjects\Azure\src\Azure.Domain\obj\Debug\net7.0\Azure.Domain.AssemblyInfoInputs.cache
+D:\ExamProjects\Azure\src\Azure.Domain\obj\Debug\net7.0\Azure.Domain.AssemblyInfo.cs
+D:\ExamProjects\Azure\src\Azure.Domain\obj\Debug\net7.0\Azure.Domain.csproj.CoreCompileInputs.cache
+D:\ExamProjects\Azure\src\Azure.Domain\obj\Debug\net7.0\Azure.Domain.dll
+D:\ExamProjects\Azure\src\Azure.Domain\obj\Debug\net7.0\refint\Azure.Domain.dll
+D:\ExamProjects\Azure\src\Azure.Domain\obj\Debug\net7.0\Azure.Domain.pdb
+D:\ExamProjects\Azure\src\Azure.Domain\obj\Debug\net7.0\ref\Azure.Domain.dll

@@ -1,0 +1,15 @@
+D:\ExamProjects\Azure\src\Azure.Data\bin\Debug\net7.0\Azure.Data.deps.json
+D:\ExamProjects\Azure\src\Azure.Data\bin\Debug\net7.0\Azure.Data.dll
+D:\ExamProjects\Azure\src\Azure.Data\bin\Debug\net7.0\Azure.Data.pdb
+D:\ExamProjects\Azure\src\Azure.Data\bin\Debug\net7.0\Azure.Domain.dll
+D:\ExamProjects\Azure\src\Azure.Data\bin\Debug\net7.0\Azure.Domain.pdb
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\Azure.Data.csproj.AssemblyReference.cache
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\Azure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\Azure.Data.AssemblyInfoInputs.cache
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\Azure.Data.AssemblyInfo.cs
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\Azure.Data.csproj.CoreCompileInputs.cache
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\Azure.Data.csproj.CopyComplete
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\Azure.Data.dll
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\refint\Azure.Data.dll
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\Azure.Data.pdb
+D:\ExamProjects\Azure\src\Azure.Data\obj\Debug\net7.0\ref\Azure.Data.dll

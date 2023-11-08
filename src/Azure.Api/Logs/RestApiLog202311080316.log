@@ -1,0 +1,24 @@
+2023-11-08 03:16:43.624 +05:00 [Error] [Azure.Api.MiddleWares.ExceptionHandlerMiddleWare] [] AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AsyncStateMachineBox`1 -> UserForResultDto
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1+AsyncStateMachineBox`1[[Azure.Domain.Entities.User, Azure.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Azure.Data.Repositories.Repository`1+<InsertAsync>d__3[[Azure.Domain.Entities.User, Azure.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Azure.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Azure.Service.DTOs.User.UserForResultDto
+   at lambda_method125(Closure, Object, UserForResultDto, ResolutionContext)
+   at Azure.Service.Services.UserService.CreateAsync(UserForCreationDto dto) in D:\ExamProjects\Azure\src\Azure.Service\Services\UserService.cs:line 41
+   at Azure.Api.Controllers.UsersController.PostAsync(UserForCreationDto dto) in D:\ExamProjects\Azure\src\Azure.Api\Controllers\UsersController.cs:line 46
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Azure.Api.MiddleWares.ExceptionHandlerMiddleWare.Invoke(HttpContext context) in D:\ExamProjects\Azure\src\Azure.Api\MiddleWares\ExceptionHandlerMiddleWare.cs:line 21
+
+
+
+
