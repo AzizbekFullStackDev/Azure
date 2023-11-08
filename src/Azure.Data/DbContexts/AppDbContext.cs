@@ -18,9 +18,6 @@ namespace Azure.Data.DbContexts
                 .WithMany(h => h.Rooms) 
                 .HasForeignKey(r => r.HotelId); 
 
-            modelBuilder.Entity<Booking>()
-                .HasKey(b => new { b.HotelId, b.UserId });
-
         }
     }
 

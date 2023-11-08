@@ -18,7 +18,7 @@ namespace Azure.Data.Repositories
 
         public async Task<TEntity> InsertAsync(TEntity entity)
         {
-            await _dbSet.AddAsync(entity);
+             await _dbSet.AddAsync(entity);
             await _dbContext.SaveChangesAsync();
             return entity;
         }
